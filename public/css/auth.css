@@ -1,0 +1,16 @@
+body{
+    background: #5bc0de;
+    color: #fff;
+}
+.auth-container{
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+}
+a{
+    color: #fff;
+}
+a:focus, a:active:focus, a:hover, a:visited{
+    text-decoration: none;
+    color: #fff;
+}
